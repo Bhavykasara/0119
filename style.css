@@ -1,0 +1,23 @@
+body {
+    color:white;
+    font-family: 'Special Elite', cursive;
+}
+
+#container {
+    width: 90%;
+    height: 90%;
+    margin: 2%;
+    box-shadow: 10px 10px 10px 10px black;
+}
+
+#rb {
+    margin-top:28%;
+}
+
+canvas {
+    border: 2px white solid;
+}
+
+#container:hover {
+    
+}
